@@ -3,7 +3,7 @@
 
 
 > 飞机颠颠簸簸在气流中穿行，终于降落了，向外望过去，小雨淅淅沥沥的下着，原来地面下雨的时候在天上真的看不到雨滴，哈哈
-![image](https://github.com/pingpingyuyu/travelLog.yunnan.photo/blob/master/IMG20180712151137.jpg)
+![image](https://github.com/pingpingyuyu/travelLog.yunnan.day1/blob/master/IMG20180712151137.jpg)
 
 
 
