@@ -1,34 +1,21 @@
-## 昆明
-飞机到达了昆明，脑子浑浑噩噩
+#               云南行-昆明
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+> 飞机颠颠簸簸在气流中穿行，终于降落了，向外望过去，小雨淅淅沥沥的下着，原来地面下雨的时候在天上真的看不到雨滴，哈哈
+![image](https://github.com/pingpingyuyu/travelLog.yunnan.photo/blob/master/IMG20180712151137.jpg)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+> 整个人浑浑噩噩，有点头疼，有点模糊，心里十分忐忑害怕自己有高反，坐在休息厅，看看周围一个个小情侣，小夫妻，等着导游发车。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pingpingyuyu/travelLog.day1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+> 出发前，我只是模糊的知道我要去大理了，要去看苍山洱海，要去登玉龙雪山，可能是看别人发的朋友圈，亦或是看过相关的电影，听过相关的歌，一直对大理，对丽江充满了期待，蓝天，绿山，清水，每走一步都是风景。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+> 到了酒店之后，放下行李，去了附件的一家小餐馆吃了一碗云南米线，10块钱，不觉着食不下咽，但也绝不是啥美味，心中隐隐的低落着
+ 
