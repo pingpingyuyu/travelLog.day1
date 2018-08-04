@@ -10,11 +10,21 @@
 ![image](https://github.com/pingpingyuyu/travelLog.yunnan/blob/master/day2/IMG20180726103430.jpg?raw=true)
 
 
+
+
+
 >九乡风景区内分布着各式溶洞，手放上去凉凉的，抬头向上，也是怪石嶙峋，或突然有个洞穴，或突然有水流涌出，多处水流汇集一处，咚咚咚的向外流去。这些水流或涓涓或澎湃，每个溶洞都不尽相同。景象跟盗墓笔记中的描述十分相似，当时读盗墓笔记，总是构建不出这些场景，现在才知道经历的重要性。
 ![image](https://github.com/pingpingyuyu/travelLog.yunnan/blob/master/day2/IMG20180726105352.jpg?raw=true)
 
+
+
+
 > 穿过一个个溶洞一路向前，眼前豁然一亮，这不就是神话中玉漱公主所呆的天宫。杰克乘直升机到郦山上空，冒险跳入峡谷中的瀑布，情景一如梦境，他闯进一条通往悬浮天宫的隧道，梦寐以求的玉漱公主，活生生的出现在杰克眼前，守候了数千年的玉漱，终于等到了，信守承诺的蒙毅将军回来找她。
 ![image](https://github.com/pingpingyuyu/travelLog.yunnan/blob/master/day2/IMG20180726110206.jpg?raw=true)
+
+
+
+
 
 > 紧接着就开始从山石底部往上走了，风景依旧各异，因溶洞内部的特殊环境形成的九州梯田，有各处水流汇集而成的多处瀑布，有形态各异的钟乳石。
 ![image](https://github.com/pingpingyuyu/travelLog.yunnan/blob/master/day2/IMG20180726111952.jpg?raw=true)
