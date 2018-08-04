@@ -5,13 +5,13 @@
 
 >    终于上车开始了今天的行程，导游阿诺姐开始对大家按家庭排号，我是3号，人数1，有点小尴尬，强装淡然的隐隐的告诉自己，没事，你就是特立独行的你，拿起书本嚼起来。阿诺姐在车上说了一些注意事项以及一些风俗习惯，对当地人的一些称呼，阿黑哥，胖金妹等等，其中少不了一些恶俗。心想她说的这些故事肯定跟我做讲师一样，已经讲透讲烂了吧，为什么不做更深层次的一个思考，去提炼一下故事的主旨或者包装一下自己演讲的风格。
 
-
+###                 九乡
 
 >    第一站是九乡风景区，据说是西游记，神话等影视剧拍摄的场地。
 ![image](https://github.com/pingpingyuyu/travelLog.yunnan/blob/master/day2/IMG20180726095557.jpg?raw=true)
 
 
->    九乡地处一个山区之中，峰峦连绵，峰顶和峰谷相差200米左右。所以我们的第一个项目就是在峰谷的溪流中穿行，感受山间的静谧，心中想着那些古装剧中被仇人追杀最后跳崖奇迹生还的人应该就是跌入了这样的溪谷中吧。
+>    九乡地处一个山区之中，峰峦连绵，峰顶和峰谷相差200米左右。所以我们的第一个项目就是在峰谷的溪流中穿行，感受山间的静谧，心中想着那些古装剧中被仇人追杀最后跳崖奇迹生还的人应该就是跌入了这样的溪谷中。
 ![image](https://github.com/pingpingyuyu/travelLog.yunnan/blob/master/day2/IMG20180726103430.jpg?raw=true)
 
 
@@ -35,7 +35,11 @@
 ![image](https://github.com/pingpingyuyu/travelLog.yunnan/blob/master/day2/IMG20180726111952.jpg?raw=true)
 ![image](https://github.com/pingpingyuyu/travelLog.yunnan/blob/master/day2/IMG20180726112752.jpg?raw=true)
 
+
+
+
   
+###             彝族部落
   
   
      
